@@ -1,0 +1,50 @@
+{
+    "_id":"65584923-2a21-47b3-8fd0-0ac5ad34a4bd",
+    "created":"2019-12-31T00:00:00",
+    "@type": "Person",
+    "givenName": "Man",
+    "additionalName": "Bro",
+    "familyName": "Dudeson",
+    "gender": "cyborg",
+    "contactPoint": [
+        {
+            "email": "mail.e@company.com",
+            "contactType": "Work"
+        },
+        {
+            "telephone": "555-123456789",
+            "contactType": "Work"
+        },
+    ],
+    "spouse": {
+        "identifier": "e4bb600d-60a5-4ef5-bad7-851fd4c6f508",
+        "name": "Signi Ficanto Ther"
+    },
+    "keywords": [
+        "Will be implemented",
+        "Soon"
+    ],
+    "birthDate": "1970-12-31T00:00:00.000Z",
+
+    "knowsAbout": [
+        "Finance",
+        "Javascript"
+    ],
+    "description": "Important detail that best not be forgotten",
+    "knowsLanguage": [
+        "no",
+        "en"
+    ],
+    "jobTitle": "Hyperbole",
+    "telephone": "555-987654321",
+    "email": "funnyname70@coldmail.com",
+    "url": "https://lybekk.tech",
+    "address": {
+        "streetAddress": "Wayroad 1",
+        "addressLocality": "Citypart",
+        "postalCode": "1234",
+        "addressRegion": "New Bark",
+        "addressCountry": "Youessay"
+    },
+    "favorite": true
+}

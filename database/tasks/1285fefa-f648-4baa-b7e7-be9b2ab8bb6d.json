@@ -1,0 +1,16 @@
+{
+    "_id":"1285fefa-f648-4baa-b7e7-be9b2ab8bb6d",
+    "productivity":true,
+    "type":"task",
+    "due":"2020-12-31T23:59:58",
+    "start":"2020-12-31T09:00:00",
+    "end":null,
+    "title":"That important thing I need to do. Or else..",
+    "description":"I have to do the thing on that day. Not before. Not after.",
+    "created":"2019-12-31T00:00:00",
+    "status":"todo",
+    "project":"466e5986-b157-4951-9e24-f627ea1dd8ea",
+    "context":"at home",
+    "priority":2,
+    "tags":["crucial", "chores"]
+} 

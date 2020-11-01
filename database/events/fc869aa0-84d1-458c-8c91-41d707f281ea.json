@@ -1,0 +1,12 @@
+{
+    "@type": "Event",
+    "_id":"fc869aa0-84d1-458c-8c91-41d707f281ea",
+    "name":"Replaced items in vending machine",
+    "description":"Lemon-lime soda cans replaced with orange flavored ones",
+    "category": "Plot",
+    "startDate":"2020-12-31T09:00:00",
+    "endDate":null,
+    "keywords": ["conspiracy", "gunther"],
+    "created":"2019-12-31T00:00:00",
+    "additionalType": "logbook"
+}

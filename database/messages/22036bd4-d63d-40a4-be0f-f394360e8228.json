@@ -1,0 +1,17 @@
+{
+    "_id": "22036bd4-d63d-40a4-be0f-f394360e8228",
+    "@type": "Message",
+    "sender": {
+        "name": "Hal 9000"
+    },
+    "recipient": {
+        "name": "Bender"
+    },
+    "messageAttachment": {
+        "headline": "Last message",
+        "text": "A bicycle built for two"
+    },
+    "keywords": ["Infosphere","Central Bureaucracy"],
+    "dateRead": "2020-06-03T01:21:59.694Z",
+    "dateSent": "2020-06-02T14:28:31.925Z"
+}
