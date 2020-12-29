@@ -1,0 +1,12 @@
+{
+    "_id":"346d8f3d-8e47-4b27-8809-5400b9a5a60a",
+    "finance": true,
+    "type": "transaction",
+    "created": "2020-05-22T11:52:09.706Z",
+    "name": "",
+    "description": "Free form description",
+    "category": "transaction category",
+    "amount": 0.0,
+    "sender": "Sender name",
+    "recipient":"Recipient name"
+} 

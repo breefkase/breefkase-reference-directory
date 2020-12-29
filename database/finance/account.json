@@ -1,0 +1,15 @@
+{
+    "_id":"875ec6aa-3bc2-4c53-a5b3-080ca7592311",
+    "finance": true,
+    "type": "i.e. cash or credit card",
+    "created": "2020-05-22T11:52:09.706Z",
+    "description": "Free form description",
+    "category": "account category dependent on type",
+    "active": true,
+    "currency": "USD",
+    "balance": 0.0,
+    "name": "Account label",
+    "institution": "Company name holding the account",
+    "number": "account identifier issued by the institution",
+    "balanceUpdatedDate": "2020-05-21T11:52:09.706Z"
+}

@@ -1,0 +1,13 @@
+{
+    "_id":"17b6524b-54fc-43d4-929f-2bdd5368637c",
+    "finance": true,
+    "type": "income",
+    "created": "2020-05-22T11:52:09.706Z",
+    "description": "Free form description",
+    "category": "income/expense category",
+    "active": true,
+    "currency": "USD",
+    "amount": 0.0,
+    "name": "Label distinguishing the entry",
+    "institution": "Company name"
+} 
